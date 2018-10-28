@@ -1,1 +1,1 @@
-# test333
+# Tasks for Mirantis DevOps training
